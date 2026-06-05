@@ -61,6 +61,7 @@
         "direct": true,
         "channel": "#Portugal",
         "nick": "PTirc-??",
+        "greetingText": "<img src='static/img/Big_Logo.png' width='64' height='64'><p>Welcome to PTirc</p>",
         "termsContent": "By connecting to the network, you declare that you are over 13 years of age and that you have read and accepted our <a href='https://ptirc.org/privacy-policy/'>Privacy Policy</a> and our <a href='https://ptirc.org/termos-de-servico-tos/'>Terms of Service</a>",
         "infoBackground": "https://picsum.photos/1900/1600",
         "buttonText": "Connect!",
