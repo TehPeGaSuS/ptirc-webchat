@@ -56,7 +56,7 @@
     },
     "startupOptions" : {
         "server": "alpha.ptirc.org",
-        "port": 7966,
+        "port": 7666,
         "tls": true,
         "direct": true,
         "channel": "#Portugal",
